@@ -1,0 +1,7 @@
+{
+	"name": "facebook-page-crawler",
+	"version": "4.1",
+	"buildTag": "latest",
+	"env": null,
+	"template": "apify_project"
+}
